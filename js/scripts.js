@@ -10,5 +10,6 @@ $(document).ready(function(){
     favoriteThings.push(fav3);
 
     $("#output").text(favoriteThings);
+    
   })
 })
